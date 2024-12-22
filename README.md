@@ -19,7 +19,7 @@ Thats All!
 
 ## Environment Variable
 
-There is Environment Variable in ./.env .
+There is an Environment Variable in ./.env .
 
 ### ./.env 
 
