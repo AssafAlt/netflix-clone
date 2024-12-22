@@ -11,7 +11,7 @@ function NotFound() {
           Sorry, the page you're looking for doesn't exist.
         </p>
         <Link
-          to="/home"
+          to="/"
           className="mt-6 px-4 py-2 bg-red-600 text-white font-semibold rounded hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-600 focus:ring-opacity-75"
         >
           Go Back to Home
