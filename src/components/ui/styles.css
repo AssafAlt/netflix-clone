@@ -1,0 +1,31 @@
+/* styles.css */
+.movie-overlay {
+  overflow-y: auto;
+}
+@media (max-width: 1000px) {
+  .movie-overlay {
+    max-width: 70%; /* Remove max-width */
+    height: 80dvh;
+  }
+
+  .movie-overlay img {
+    height: 50dvh; /* Adjust image size */
+  }
+
+  .movie-overlay .text-center {
+    padding: 10px; /* Adjust padding */
+  }
+
+  .movie-overlay h2 {
+    font-size: 1.8rem; /* Smaller heading */
+  }
+
+  .movie-overlay .text-sm {
+    font-size: 0.85rem; /* Adjust font size */
+  }
+}
+@media (max-width: 425px) {
+  .movie-overlay {
+    max-width: 90%;
+  }
+}
