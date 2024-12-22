@@ -1,6 +1,6 @@
 # Netflix Clone
 
-This is a simple Netflix clone built with React and styled using Tailwind CSS.
+This is a simple Netflix clone built with React and styled using Tailwind CSS,  data is fetched from the TMDB API.
 
 
 ## Deployment
@@ -21,7 +21,7 @@ Thats All!
 
 There is Environment Variable in ./.env .
 
-### client/.env 
+### ./.env 
 
 #### REACT_APP_IMDB_API_KEY needs to replace with your own tmdb api key.
 
